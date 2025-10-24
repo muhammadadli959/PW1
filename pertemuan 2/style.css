@@ -1,0 +1,58 @@
+h1 {
+  color: red;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  color: blue;
+}
+
+/* .paragraf1 {
+    color: pink;
+}
+
+.paragraf2 {
+    color: green;
+}
+
+#paragraf3 {
+    color: red;
+} */
+
+/* p {
+    /* color: #000000; */
+/* color: rgb(255, 0, 0); 
+    color: hsl(120, 100%, 50%);
+    font-size: 36px;
+    font-family: sans-serif, Arial, Helvetica;
+    font-weight: bold;
+    text-align: center;
+    background-color: blue;;
+} */
+
+/* div {
+  width: 100px;
+  height: 100px;
+  background-color: cyan;
+  border-top-style: solid;
+  border-color: black;
+  border-top-width: 10px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+} 
+
+.div2{
+  width: 100px;
+  height: 100px;
+  background-color: cyan;
+  border-top-style: solid;
+  border-color: #000000;
+  border-top-width: 10px;
+  padding-top: 10px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+} */
+
+
